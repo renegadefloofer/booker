@@ -1,0 +1,21 @@
+* {
+    margin: 10px;
+}
+
+.set_time {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    align-items: center;
+}
+
+
+.time_input {
+    color: #11999E;
+    font-size: large;
+    transform: translate(0, -3px);
+    border-width: 1px;
+    border-radius: 10%;
+    text-align: center;
+    color: #40514E;
+}
